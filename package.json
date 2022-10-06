@@ -1,0 +1,11 @@
+{
+  "name": "preentregapepa-main",
+  "version": "1.0.0",
+  "description": "Agencia de desarrollo WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julieta D'Angelo",
+  "license": "ISC"
+}

@@ -1,0 +1,13 @@
+
+.card {
+    margin-bottom: 3rem;
+    transition: 0.2s;
+    &:hover{
+        transform: scale(1.05);
+    }
+}
+
+.card-img-top {
+    padding: 15px;
+}
+

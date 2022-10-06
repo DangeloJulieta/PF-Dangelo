@@ -1,0 +1,37 @@
+@import 'base/reset';
+@import 'base/typography';
+
+@import "./utils/variables";
+@import "./utils/mixins";
+
+@import 'components/carousel';
+@import 'components/cover';
+@import 'components/cards';
+
+@import 'layout/navigation';
+@import 'layout/header';
+@import 'layout/forms';
+@import 'layout/footer';
+@import 'layout/body';
+
+@import 'pages/home';
+@import 'pages/contact';
+
+
+
+
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 100%
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+
+
+
