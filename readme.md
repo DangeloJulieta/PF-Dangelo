@@ -1,3 +1,1 @@
-# Tercera Entrega Proyecto Coderhouse Comisión-33035
-
-Incorporamos SASS al proyecto.
+# Entrega proyecto Coderhouse Comisión-33035
